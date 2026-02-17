@@ -1,16 +1,16 @@
-from pathlib import Path
+﻿from pathlib import Path
 from time import sleep
 # Az NR változó adja meg hogy hány nevet kérsz be
 nr = 3
 lista = []
 def beleiras():
-    with open("nevek.txt","a",encoding="utf-8") as f:
+    with open("0217/nevek.txt","a",encoding="utf-8") as f:
         for i in range(len(lista)):
             f.write("%s\n" % lista[i])
             print("%s hozzáadva a fájlhoz." % lista[i])
             sleep(0.5)
 def uj():
-    with open("nevek.txt","w",encoding="utf-8") as f:
+    with open("0217/nevek.txt","w",encoding="utf-8") as f:
         for i in range(len(lista)):
             f.write("%s\n" % lista[i])
             print("%s hozzáadva a fájlhoz." % lista[i])
@@ -21,7 +21,7 @@ for i in range(nr):
     nr -= 1
     lista.append(str(bevitel))
     sleep(0.5)
-if Path("nevek.txt").exists:
+if Path("0217/nevek.txt").exists:
     temp = input('A "nevek.txt" nevű fájl már létezik, törlöd és újat hozol létre vagy beleírsz? (uj/beleiras) ')
     if temp == "uj":
         uj()

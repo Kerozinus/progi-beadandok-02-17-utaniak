@@ -1,7 +1,7 @@
-lista = []
+﻿lista = []
 eredmeny = 0
 def run():
-    with open ("pontok.txt","r",encoding="utf-8") as f:
+    with open ("0217/pontok.txt","r",encoding="utf-8") as f:
         for i in f:
             lista.append(int(i))
     eredmeny = lista[0]
