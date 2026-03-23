@@ -1,0 +1,4 @@
+Kiss Anna;17;4.5
+Nagy Péter;18;3.8
+Szabó Lilla;17;4.9
+Tóth Márk;18;2.7

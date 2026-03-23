@@ -1,0 +1,6 @@
+Tanulók száma: 4
+3.975 az osztály átlag
+jó tanulók: 
+Kiss Anna(4.5)
+Szabó Lilla(4.9)
+A program futásának dátuma: <built-in function time>
