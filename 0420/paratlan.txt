@@ -1,0 +1,4 @@
+A szamok2.txt fájlból az alábbi páratlan számokat szedtem ki: 
+7
+15
+9

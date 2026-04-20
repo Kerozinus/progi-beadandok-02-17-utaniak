@@ -1,0 +1,1 @@
+A szamok.txt ben lévő számok eredménye: 48

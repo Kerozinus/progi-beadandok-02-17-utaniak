@@ -1,0 +1,2 @@
+5db szót találtam a szavak.txt ben
+szilva  a leghosszabb szó a listában

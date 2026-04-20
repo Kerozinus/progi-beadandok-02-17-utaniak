@@ -1,0 +1,4 @@
+A szamok2.txt fájlból az alábbi páros számokat szedtem ki: 
+10
+22
+4

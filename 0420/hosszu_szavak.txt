@@ -1,0 +1,4 @@
+5 karakternél hosszabb szavak: 
+körte
+szilva
+barack
